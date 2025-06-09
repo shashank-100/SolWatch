@@ -21,3 +21,11 @@ Heimdall is a high-performance Solana geyser plugin that:
 - SQL queries are approximately 10x faster than RPC getProgramAccounts
 - gRPC streaming provides immediate updates compared to polling
 - Efficient storage and indexing of on-chain data
+
+### How to Run
+
+Here are screenshots of running the server and client:
+
+![Server Running](photo_2025-06-09 13.28.12.jpeg)
+
+![Client Running](photo_2025-06-09 13.28.15.jpeg)
