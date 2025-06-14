@@ -1,8 +1,8 @@
-## heimdall
+## Solwatch
 A fast Solana geyser plugin for real-time account monitoring and data streaming
 
 ### Overview
-Heimdall is a high-performance Solana geyser plugin that:
+Solana geyser plugin that:
 - Stores account data in PostgreSQL for efficient querying
 - Streams updates via gRPC for real-time data access
 - Tracks both Anchor program accounts and user wallet assets
